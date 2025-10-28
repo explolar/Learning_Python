@@ -17,7 +17,31 @@ It contains **code notebooks, notes, and projects** demonstrating key topics in 
 ---
 
 ## 🗂 Repository Structure
-
+ML-NLP-Bootcamp/
+│
+├── 01_Python_Basics/
+├── 02_Data_Preprocessing/
+├── 03_Machine_Learning/
+│ ├── Regression/
+│ ├── Classification/
+│ ├── Clustering/
+│ └── Feature_Engineering/
+├── 04_Deep_Learning/
+│ ├── ANN/
+│ ├── CNN/
+│ └── RNN/
+├── 05_NLP/
+│ ├── Text_Preprocessing/
+│ ├── Embeddings/
+│ └── Transformers/
+├── 06_MLOps/
+│ ├── Model_Serialization/
+│ ├── Flask_API_Deployment/
+│ └── Docker_Deployment/
+└── 07_Projects/
+├── Project_1_Data_Science/
+├── Project_2_NLP/
+└── Project_3_Deployment
 
 
 ## 🎯 Learning Objectives
@@ -50,12 +74,3 @@ It contains **code notebooks, notes, and projects** demonstrating key topics in 
 
 ---
 
-## 🧠 Learning Progress Tracker
-
-| Module | Status | Notes |
-|--------|--------|-------|
-| Python Basics | ✅ Completed | Practiced loops, data structures, and file handling |
-| Machine Learning | 🚧 In Progress | Working on feature scaling & model selection |
-| Deep Learning | ⏳ Upcoming | To start after ML section |
-| NLP | ⏳ Upcoming | Plan to use transformer models |
-| MLOps / Deployment | ⏳ Pending | Will explore after model building |
