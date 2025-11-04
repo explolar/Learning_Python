@@ -57,7 +57,7 @@ This checklist is based on the official course curriculum and serves as my perso
 - [✅] Inbuilt Data Structures In Python
 - [✅] Functions In Python
 - [✅] Function Practice Question
-- [ ] Inbuilt Data Structure - Practice Question
+- [✅] Inbuilt Data Structure - Practice Question
 - [ ] Importing Creating Modules And Packages
 - [ ] File Handling In Python
 - [ ] Exception Handling In Python
