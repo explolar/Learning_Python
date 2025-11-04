@@ -54,9 +54,9 @@ This checklist is based on the official course curriculum and serves as my perso
 - [✅] Getting Started
 - [✅] Python Programming Language
 - [✅] Python Control Flow
-- [ ] Inbuilt Data Structures In Python
-- [ ] Functions In Python
-- [ ] Function Practice Question
+- [✅] Inbuilt Data Structures In Python
+- [✅] Functions In Python
+- [✅] Function Practice Question
 - [ ] Inbuilt Data Structure - Practice Question
 - [ ] Importing Creating Modules And Packages
 - [ ] File Handling In Python
