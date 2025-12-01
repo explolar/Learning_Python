@@ -58,9 +58,9 @@ This checklist is based on the official course curriculum and serves as my perso
 - [✅] Functions In Python
 - [✅] Function Practice Question
 - [✅] Inbuilt Data Structure - Practice Question
-- [ ] Importing Creating Modules And Packages
-- [ ] File Handling In Python
-- [ ] Exception Handling In Python
+- [✅] Importing Creating Modules And Packages
+- [✅] File Handling In Python
+- [✅] Exception Handling In Python
 - [ ] OOPS Concepts With Classes And Objects
 - [ ] Advance Python
 
